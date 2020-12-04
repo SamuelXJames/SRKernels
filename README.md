@@ -4,9 +4,9 @@ The aim of this project is to train SR models on realistic LR images
 
 
 ## Content
-- [Kernel Estimation] (#Kernel Estimation)
-- [models] (#models)
-- [utils] (#utils)
+- Kernel Estimation
+- models
+- utils
 
 
 ## Kernel Estimation
