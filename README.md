@@ -1,18 +1,11 @@
-# RealRes
+# SRKernels
 
-The aim of this project is to train SR models on realistic LR images
+This repo contains Blur Kernels that can be used to develop datasets for Super Rresolution models. The original work and much of the code is adapted from [Zhou and Strusstrunk](https://github.com/IVRL/Kernel-Modeling-Super-Resolution).
 
+## Matlab Kernels
+These are a kernels that can be found 
 
-## Content
-- Kernel Estimation
-- models
-- utils
-
-
-## Kernel Estimation
-Based off the work by [Zhou and Strusstrunk](https://github.com/IVRL/Kernel-Modeling-Super-Resolution).
-
-## models 
+## GAN Kernels 
 Contians ESRGAN implementations
 
 ## utils
