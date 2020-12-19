@@ -11,6 +11,6 @@ Matlab kernels were used to train a GAN to generate more kernels. These kernels 
 
 <img src="Figures/kernels (2).png" width="425">
 
-Top row: images of Dark Channel blur kernels.
+Top row: images of Dark Channel blur kernels.<br />
 Bottom row: images devloped using a GAN
 
